@@ -9,7 +9,6 @@ app.set('views', __dirname + '/views');
 app.use(i18n);
 
 app.get('/', function(req, res) {
-    console.log(res.__('Hello i18n'));
     res.render('index.ejs');
 });
 

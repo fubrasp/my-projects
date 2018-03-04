@@ -14,6 +14,10 @@
 	"crypto_monitor.description": "Confidential. Observe course (Up and Down) of any desired crypto currency.",
 	"big_data_project.title": "Big Data project",
 	"big_data_project.description": "Analyse crimes in Chicago with Apache Spark",
+	"facebook_counter.title" : "Facebook Followers Counter",
+	"facebook_counter.description" : "A followers displayer links with an facebook's graph API.",
+	"instagram_counter.title" : "Instagram Followers Counter",
+	"instagram_counter.description" : "A followers displayer links with your instagram account.",
 	"services": "Services",
 	"blog": "Blog",
 	"page_design": "Page design (inspiration)",
@@ -23,5 +27,7 @@
 	"projects": "Projects",
 	"about_me": "About Me",
 	"Hello i18n": "Hello i18n",
-	"page_title" : "My projects"
+	"page_title" : "My projects",
+	"cv_link" : "BERTRAND_Guillaume_CV_EN.pdf"
+
 }

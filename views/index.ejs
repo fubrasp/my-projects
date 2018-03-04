@@ -15,7 +15,7 @@
         <a href="#" class="brand-logo"><%= __('projects')%></a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li><a href="http://bertrandguillaume.fr"><%= __('services')%></a></li>
-            <li><a href="http://92.222.86.67/CV/BERTRAND_Guillaume_CV_FR_.pdf"><%= __('cv')%></a></li>
+            <li><a href="http://92.222.86.67/CV/<%= __('cv_link')%>"><%= __('cv')%></a></li>
         </ul>
     </div>
 </nav>
@@ -106,6 +106,30 @@
                     <a href="http://92.222.86.67/q1.html"><%= __('big_data_project.title')%></a>
                 </div>
             </div>
+            <div class="card grey darken-3">
+                <div class="card-image">
+                    <img src="./img/afficheur.jpeg">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title"><%= __('facebook_counter.title')%></span>
+                    <p><%= __('facebook_counter.description')%></p>
+                </div>
+                <div class="card-action">
+                    <a href="https://www.youtube.com/watch?v=4rrdQVMGeQE"><%= __('facebook_counter.title')%></a>
+                </div>
+            </div>
+            <div class="card grey darken-3">
+                <div class="card-image">
+                    <img src="./img/afficheur.jpeg">
+                </div>
+                <div class="card-content white-text">
+                    <span class="card-title"><%= __('instagram_counter.title')%></span>
+                    <p><%= __('instagram_counter.description')%></p>
+                </div>
+                <div class="card-action">
+                    <a href="https://www.youtube.com/watch?v=4rrdQVMGeQE"><%= __('instagram_counter.title')%></a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -131,7 +155,7 @@
     <div class="footer-copyright">
         <div class="container">
             © 2018 GUILLAUME BERTRAND ET CONSULTANTS
-            <a class="grey-text text-lighten-4 right" href="http://92.222.86.67/CV/BERTRAND_Guillaume_CV_FR_.pdf"><%= __('cv')%></a>
+            <a class="grey-text text-lighten-4 right" href="http://92.222.86.67/CV/<%= __('cv_link')%>"><%= __('cv')%></a>
         </div>
     </div>
 </footer>

@@ -14,6 +14,10 @@
 	"crypto_monitor.description": "Confidentiel. Observe les courses (gains et pertes) de n'importe quel crypto monnaie.",
 	"big_data_project.title": "Projet Big Data",
 	"big_data_project.description": "Analyse des crimes à Chicago avec Apache Spark",
+	"facebook_counter.title": "Compteur d'abonnés Facebook",
+	"facebook_counter.description": "Un compteur qui affiche le nombre d'abonnés pour une page facebook donnée.",
+	"instagram_counter.title": "Compteur de followers Instagram",
+	"instagram_counter.description": "Un compteur qui affiche le nombre de followers pour un compte Instagram donné.",
 	"services": "Services",
 	"blog": "Blog",
 	"page_design": "Design de la page (inspiration)",
@@ -23,5 +27,6 @@
 	"projects": "Projets",
 	"about_me": "A propos",
 	"Hello i18n": "Hello i18n",
-	"page_title" : "Mes projets"
+	"page_title": "Mes projets",
+	"cv_link": "BERTRAND_Guillaume_CV_FR_.pdf"
 }
