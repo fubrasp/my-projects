@@ -16,6 +16,8 @@
 	"crypto_monitor.description": "Confidential. Observe course (Up and Down) of any desired crypto currency.",
 	"big_data_project.title": "Big Data project",
 	"big_data_project.description": "Analyse crimes in Chicago with Apache Spark",
+	"video_wall.title": "Video Wall",
+	"video_wall.description": "Earn and configure hardware in order to make a 4HDMI screens video wall.",
 	"facebook_counter.title" : "Facebook Followers Counter",
 	"facebook_counter.description" : "A followers displayer links with an Facebook's graph API.",
 	"instagram_counter.title" : "Instagram Followers Counter",
