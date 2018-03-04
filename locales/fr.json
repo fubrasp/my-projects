@@ -28,5 +28,6 @@
 	"about_me": "A propos",
 	"Hello i18n": "Hello i18n",
 	"page_title": "Mes projets",
-	"cv_link": "BERTRAND_Guillaume_CV_FR_.pdf"
+	"cv_link": "BERTRAND_Guillaume_CV_FR_.pdf",
+	"linked_in" : "https://www.linkedin.com/in/guillaume-bertrand/"
 }
