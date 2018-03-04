@@ -1,7 +1,9 @@
 {
 	"page_description": "Ces projets ont été réalisés dans un cadre professionnel ou scolaire. Il s'agit d'un échantillon de tous mes projets.",
 	"crypto_invest_app_website.title": "Site web Crypto Invest App",
-	"crypto_invest_app_website.description": "Site commercial pour présenter une application de gestion des échanges de crypto monnaies.",
+	"crypto_invest_app_website.description": "Site web commercial pour présenter une application de gestion des échanges de crypto monnaies.",
+	"fph_consulting_website.title": "Site web F&Ph Consulting",
+	"fph_consulting_website.description": "Site web commercial pour proposer des services autour des crypto monnaies.",
 	"raspberry_pi_game.title": "Jeu Raspberry pi",
 	"raspberry_pi_game.description": "Confidentiel. Jeu électronique avec un raspberry pi",
 	"laravel_web_application.title": "Application web Laravel",
@@ -15,9 +17,11 @@
 	"big_data_project.title": "Projet Big Data",
 	"big_data_project.description": "Analyse des crimes à Chicago avec Apache Spark",
 	"facebook_counter.title": "Compteur d'abonnés Facebook",
-	"facebook_counter.description": "Un compteur qui affiche le nombre d'abonnés pour une page facebook donnée.",
+	"facebook_counter.description": "Un compteur qui affiche le nombre d'abonnés pour une page Facebook donnée.",
 	"instagram_counter.title": "Compteur de followers Instagram",
 	"instagram_counter.description": "Un compteur qui affiche le nombre de followers pour un compte Instagram donné.",
+	"youtube_counter.title": "Compteur d'abonnés Youtube",
+	"youtube_counter.description": "Un compteur qui affiche le nombre d'abonnés pour une chaîne Youtube donnée.",
 	"services": "Services",
 	"blog": "Blog",
 	"page_design": "Design de la page (inspiration)",
@@ -29,5 +33,6 @@
 	"Hello i18n": "Hello i18n",
 	"page_title": "Mes projets",
 	"cv_link": "BERTRAND_Guillaume_CV_FR_.pdf",
-	"linked_in" : "https://www.linkedin.com/in/guillaume-bertrand/"
+	"linked_in": "https://www.linkedin.com/in/guillaume-bertrand/",
+	"icons_credits": "Icônes sociales designées par Freepik"
 }

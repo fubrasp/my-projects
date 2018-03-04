@@ -2,6 +2,8 @@
 	"page_description": "These projects have been realized in professional and/or scholar context. It is just a sample of all my projects.",
 	"crypto_invest_app_website.title": "Crypto Invest App Website",
 	"crypto_invest_app_website.description": "A commercial website in order to present a stock app for crypto currencies.",
+	"fph_consulting_website.title": "F&Ph Consulting Website",
+	"fph_consulting_website.description": "A commercial website in order to purpose services around crypto-currencies.",
 	"raspberry_pi_game.title": "Raspberry pi game",
 	"raspberry_pi_game.description": "Confidential. Electronic game system in Python with rapberry pi",
 	"laravel_web_application.title": "Laravel Web application",
@@ -15,9 +17,11 @@
 	"big_data_project.title": "Big Data project",
 	"big_data_project.description": "Analyse crimes in Chicago with Apache Spark",
 	"facebook_counter.title" : "Facebook Followers Counter",
-	"facebook_counter.description" : "A followers displayer links with an facebook's graph API.",
+	"facebook_counter.description" : "A followers displayer links with an Facebook's graph API.",
 	"instagram_counter.title" : "Instagram Followers Counter",
-	"instagram_counter.description" : "A followers displayer links with your instagram account.",
+	"instagram_counter.description" : "A followers displayer links with your Instagram account.",
+	"youtube_counter.title" : "Youtube Followers Counter",
+	"youtube_counter.description" : "A followers displayer links with your Youtube account.",
 	"services": "Services",
 	"blog": "Blog",
 	"page_design": "Page design (inspiration)",
@@ -29,5 +33,6 @@
 	"Hello i18n": "Hello i18n",
 	"page_title" : "My projects",
 	"cv_link" : "BERTRAND_Guillaume_CV_EN.pdf",
-	"linked_in" : "https://www.linkedin.com/in/guillaume-bertrand/?locale=en_US"
+	"linked_in" : "https://www.linkedin.com/in/guillaume-bertrand/?locale=en_US",
+	"icons_credits" : "Social icons designed by Freepik"
 }
