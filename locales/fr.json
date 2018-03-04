@@ -1,5 +1,5 @@
 {
-	"page_description": "Ces projets ont été réalisés dans un cadre professionnel ou scolaire <br> Il s'agit d'un échantillon de tous mes projets.",
+	"page_description": "Ces projets ont été réalisés dans un cadre professionnel ou scolaire. Il s'agit d'un échantillon de tous mes projets.",
 	"crypto_invest_app_website.title": "Site web Crypto Invest App",
 	"crypto_invest_app_website.description": "Site commercial pour présenter une application de gestion des échanges de crypto monnaies.",
 	"raspberry_pi_game.title": "Jeu Raspberry pi",
@@ -11,15 +11,16 @@
 	"twitter_crypto_bot.title": "CryptoBot twitter",
 	"twitter_crypto_bot.description": "Confidentiel. Bot qui tweet les cours des crypto monnaies.",
 	"crypto_monitor.title": "Crypto moniteur",
-	"crypto_monitor.description": "Confidentiel. Observe les course (gains et perte) de n'importe quel crypto monnaie.",
+	"crypto_monitor.description": "Confidentiel. Observe les courses (gains et pertes) de n'importe quel crypto monnaie.",
 	"big_data_project.title": "Projet Big Data",
 	"big_data_project.description": "Analyse des crimes à Chicago avec Apache Spark",
 	"services": "Services",
 	"blog": "Blog",
 	"page_design": "Design de la page (inspiration)",
-	"cv": "Online CV",
-	"contact_sentence" : "Ne pas hésiter à me contacter pour toute mission freelance ou quelconque service en dépannage, cours, développement logiciel.",
-	"links" : "liens",
-	"projects" : "Projets",
-	"about_me":"A propos"
+	"cv": "CV en ligne",
+	"contact_sentence": "Ne pas hésiter à me contacter pour toute mission freelance ou quelconque service en dépannage, cours, développement logiciel.",
+	"links": "liens",
+	"projects": "Projets",
+	"about_me": "A propos",
+	"Hello i18n": "Hello i18n"
 }
