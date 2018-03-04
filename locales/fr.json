@@ -22,5 +22,6 @@
 	"links": "liens",
 	"projects": "Projets",
 	"about_me": "A propos",
-	"Hello i18n": "Hello i18n"
+	"Hello i18n": "Hello i18n",
+	"page_title" : "Mes projets"
 }
