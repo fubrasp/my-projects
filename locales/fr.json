@@ -27,7 +27,7 @@
 	"youtube_counter.title": "Compteur d'abonnés Youtube",
 	"youtube_counter.description": "Un compteur qui affiche le nombre d'abonnés pour une chaîne Youtube donnée.",
 	"plane_indicators.title": "Indicateurs pour avion",
-	"plane_indicators.description": "Programmes permettant l'affichage sous forme d'indicateurs utilisés dans les avions de données provenant de capteurs compensés sur un maquette arduino a-like.",
+	"plane_indicators.description": "Programmes permettant l'affichage de donées sous forme d'indicateurs utilisés dans les avions. Ces données proviennent de capteurs compensés sur une maquette arduino a-like.",
 	"services": "Services",
 	"blog": "Blog",
 	"page_design": "Design de la page (inspiration)",
