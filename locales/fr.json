@@ -1,5 +1,7 @@
 {
 	"page_description": "Ces projets ont été réalisés dans un cadre professionnel ou scolaire. Il s'agit d'un échantillon de tous mes projets.",
+	"e2e_automation_tool.title": "Suites d'outils autour de tests E2E",
+	"e2e_automation_tool.description": "Ensemble d'outils logiciels développés autour d'une solution de tests end-to-end.",
 	"crypto_invest_app_website.title": "Site web Crypto Invest App",
 	"crypto_invest_app_website.description": "Site web commercial pour présenter une application de gestion des échanges de crypto monnaies.",
 	"fph_consulting_website.title": "Site web F&Ph Consulting",
@@ -24,6 +26,8 @@
 	"instagram_counter.description": "Un compteur qui affiche le nombre de followers pour un compte Instagram donné.",
 	"youtube_counter.title": "Compteur d'abonnés Youtube",
 	"youtube_counter.description": "Un compteur qui affiche le nombre d'abonnés pour une chaîne Youtube donnée.",
+	"plane_indicators.title": "Indicateurs pour avion",
+	"plane_indicators.description": "Programmes permettant l'affichage sous forme d'indicateurs utilisés dans les avions de données provenant de capteurs compensés sur un maquette arduino a-like.",
 	"services": "Services",
 	"blog": "Blog",
 	"page_design": "Design de la page (inspiration)",
