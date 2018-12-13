@@ -14,7 +14,7 @@ app.set('views', __dirname + '/views');
 app.use(i18n);
 
 app.get('/', function(req, res) {
-    res.render('index.ejs');
+    res.render('index.ejs', {});
 });
 
 app.listen('3000');
