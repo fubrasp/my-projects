@@ -30,3 +30,11 @@
 .text-center {
     text-align: center;
 }
+#fgubox-logo, #seloger-logo, #areas-logo, #nao-logo, #sgcib-logo {
+    background: white;
+}
+
+#sgcib-logo, #areas-logo, #nao-logo {
+    min-width: min-content;
+}
+
